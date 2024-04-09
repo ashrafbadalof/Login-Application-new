@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\LoginApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B46CF-0432-4DB7-B97D-03F65F2092D1}|LoginApplication\\LoginApplication.csproj|c:\\users\\asus\\source\\repos\\loginapplication\\loginapplication\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F49B46CF-0432-4DB7-B97D-03F65F2092D1}|LoginApplication\\LoginApplication.csproj|solutionrelative:loginapplication\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B46CF-0432-4DB7-B97D-03F65F2092D1}|LoginApplication\\LoginApplication.csproj|c:\\users\\asus\\source\\repos\\loginapplication\\loginapplication\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F49B46CF-0432-4DB7-B97D-03F65F2092D1}|LoginApplication\\LoginApplication.csproj|solutionrelative:loginapplication\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B46CF-0432-4DB7-B97D-03F65F2092D1}|LoginApplication\\LoginApplication.csproj|c:\\users\\asus\\source\\repos\\loginapplication\\loginapplication\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B46CF-0432-4DB7-B97D-03F65F2092D1}|LoginApplication\\LoginApplication.csproj|solutionrelative:loginapplication\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B46CF-0432-4DB7-B97D-03F65F2092D1}|LoginApplication\\LoginApplication.csproj|c:\\users\\asus\\source\\repos\\loginapplication\\loginapplication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B46CF-0432-4DB7-B97D-03F65F2092D1}|LoginApplication\\LoginApplication.csproj|solutionrelative:loginapplication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B46CF-0432-4DB7-B97D-03F65F2092D1}|LoginApplication\\LoginApplication.csproj|c:\\users\\asus\\source\\repos\\loginapplication\\loginapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B46CF-0432-4DB7-B97D-03F65F2092D1}|LoginApplication\\LoginApplication.csproj|solutionrelative:loginapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LoginApplication\\LoginApplication\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "LoginApplication\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\LoginApplication\\LoginApplication\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "LoginApplication\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:40:35.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LoginApplication\\LoginApplication\\Program.cs",
+              "RelativeDocumentMoniker": "LoginApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\LoginApplication\\LoginApplication\\Program.cs",
+              "RelativeToolTip": "LoginApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:42:30.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LoginApplication\\LoginApplication\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "LoginApplication\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\LoginApplication\\LoginApplication\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "LoginApplication\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T10:29:34.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LoginApplication\\LoginApplication\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LoginApplication\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\LoginApplication\\LoginApplication\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "LoginApplication\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T10:29:01.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\LoginApplication\\LoginApplication\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LoginApplication\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\LoginApplication\\LoginApplication\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LoginApplication\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:57:39.782Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

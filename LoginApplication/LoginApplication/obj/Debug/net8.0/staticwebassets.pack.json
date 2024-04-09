@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\LoginApplication\\LoginApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LoginApplication.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LoginApplication.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\LoginApplication\\LoginApplication\\wwwroot\\Images\\backImg.jpg",
+      "PackagePath": "staticwebassets\\Images\\backImg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\LoginApplication\\LoginApplication\\wwwroot\\Images\\frontImg.jpg",
+      "PackagePath": "staticwebassets\\Images\\frontImg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\LoginApplication\\LoginApplication\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LoginApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LoginApplication.props",
+      "PackagePath": "build\\LoginApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LoginApplication.props",
+      "PackagePath": "buildMultiTargeting\\LoginApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LoginApplication.props",
+      "PackagePath": "buildTransitive\\LoginApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
